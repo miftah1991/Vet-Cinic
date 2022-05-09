@@ -15,6 +15,19 @@
 - Twitter: [@miftah_amin1991](https://twitter.com/miftah_amin1991)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/miftah1991)
 
+👤 **Fabiano Frank**
+
+- GitHub: [@fabianofrank](https://github.com/fabianofrank)
+- Twitter: [@fabianofrankk](https://twitter.com/@fabianofrankk)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianofrank/)
+
+👤 **Fernando César da Silva**
+
+- GitHub: [@fernando-silvabr66](https://github.com/fernando-silvabr66)
+- Twitter: [@fsilvabr1](https://twitter.com/fsilvabr1)
+- LinkedIn: [https://linkedin.com/in/fernando-silvabr66](https://linkedin.com/in/fernando-silvabr66)
+
+
 
 ## 🤝 Contributing
 
